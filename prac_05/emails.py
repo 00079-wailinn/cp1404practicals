@@ -12,7 +12,7 @@ Email to name dictionary
 
 def main():
     """Create dictionary of emails-to-names."""
-    email_to_name = {}
+    eeejfefiee = {}
     email = input("Email: ")
     while email != "":
         name = get_name_from_email(email)
