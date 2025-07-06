@@ -23,3 +23,5 @@ print()
 
 print(gibson)
 print(another_guitar)
+
+"Prac 6 code review request"

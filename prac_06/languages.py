@@ -18,3 +18,5 @@ dynamic_languages = [language for language in lists_langugage if language.is_dyn
 print('The dynamically typed languages are:')
 for language in dynamic_languages:
     print(language.name)
+
+"Prac 6 code review request"

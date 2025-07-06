@@ -17,3 +17,6 @@ I also need to start assignments early in order to combat my procrastination ten
 (5)What is one request you have or change you suggest for this subject and/or your IT degree overall?
 More interdisciplinary projects that connect programming to other fields, such web development or data analysis, would be appreciated. The learning process would be enhanced by this interdisciplinary approach, 
 which would also better prepare us for a variety of professional difficulties.
+
+
+"Prac 6 code review request"
