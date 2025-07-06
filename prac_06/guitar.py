@@ -24,4 +24,4 @@ class Guitar:
     def is_vintage(self):
         return self.get_age() >= VINTAGE_AGE
 
-"Prac 6 code review request"
+"Prac 6 code review requests"

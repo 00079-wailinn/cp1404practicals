@@ -19,4 +19,4 @@ print('The dynamically typed languages are:')
 for language in dynamic_languages:
     print(language.name)
 
-"Prac 6 code review request"
+"Prac 6 code review requests"
