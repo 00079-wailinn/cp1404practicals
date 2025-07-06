@@ -23,4 +23,4 @@ def main():
 
 main()
 
-"Prac 6 code review requests"
+"Prac 6 code review request"

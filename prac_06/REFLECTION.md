@@ -19,4 +19,4 @@ More interdisciplinary projects that connect programming to other fields, such w
 which would also better prepare us for a variety of professional difficulties.
 
 
-"Prac 6 code review requests"
+"Prac 6 code review request"
