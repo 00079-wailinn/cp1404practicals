@@ -51,5 +51,3 @@ def display_results(champion_to_count, countries):
 
 
 main()
-
-"Prac 5 code review request"
