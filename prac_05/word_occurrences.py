@@ -23,3 +23,5 @@ for character in characters:
 max_length = max((len(word) for word in dict_characters))
 for character, count_character in sorted(dict_characters.items()):
     print(f"{character:{max_length}} : {count_character}")
+
+"Prac 5 code review request"
