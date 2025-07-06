@@ -36,3 +36,5 @@ class ProgrammingLanguage:
         :return: str
         """
         return f"{self.name}, {self.typing} Typing, Reflection: {self.reflection}, First appeared in {self.year}"
+
+    "prac06"

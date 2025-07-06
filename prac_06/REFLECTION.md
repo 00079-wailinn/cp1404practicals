@@ -12,3 +12,6 @@ I need to start managing my projects on my own and stop depending solely on tuto
 
 What is one request you have or change you suggest for this subject and/or your IT degree overall?
 More interdisciplinary projects that connect programming to other fields, such web development or data analysis, would be appreciated. The learning process would be enhanced by this interdisciplinary approach, which would also better prepare us for a variety of professional difficulties.
+
+
+"prac06"
