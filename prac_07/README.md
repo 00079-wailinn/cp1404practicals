@@ -11,7 +11,7 @@ I am a student from CP-1404 (Programming 2).My name is Wai Linn Aung. I am curre
 - Naming variables: Naming should be meaningful and use specific variable,function,class to make the code easy to
   understand.
 - Avoid repeating code:Use functions, loops, or constants to eliminate duplication and make code more maintainable.
-- Single Responsibility Principal(SRP):Functions should not usually print unless that's their one thing.
+- Single Responsibility Principal(SRP): Functions should not usually print unless that's their one thing.
 
 ## Resources
 
