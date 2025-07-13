@@ -3,7 +3,7 @@
 ## About this repository
 
 This repository contains all practicals from week 1 to week 10
-for [Cp-1404](https://https://github.com/00079-wailinn/cp1404practicals).
+for [Cp-1404](https://github.com/00079-wailinn/cp1404practicals).
 I am a student from CP-1404 (Programming 2).My name is Wai Linn Aung. I am currently learning Cybersecurity at JCU.
 
 ## 3 Main Lessons I learnt about clean code
@@ -16,4 +16,4 @@ I am a student from CP-1404 (Programming 2).My name is Wai Linn Aung. I am curre
 ## Resources
 
 - [CP-1404 Programming Patterns](https://github.com/CP1404/Starter/wiki/Programming-Patterns)
-- [CP-1404 Praticals](https://https://github.com/00079-wailinn/cp1404practicals)
+- [CP-1404 Praticals](https://github.com/00079-wailinn/cp1404practicals)
