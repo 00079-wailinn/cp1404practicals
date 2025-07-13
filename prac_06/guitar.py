@@ -46,3 +46,4 @@ class Guitar:
         """
         return self.get_age() >= VINTAGE_AGE
 
+"prac06"
